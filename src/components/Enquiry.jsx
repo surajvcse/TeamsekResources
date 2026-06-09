@@ -74,11 +74,11 @@ export default function Enquiry() {
           <div className="enq-contact">
             <div className="row">
               <div className="ic"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.7"><path d="M4 4h16v16H4z"/><path d="m4 6 8 6 8-6"/></svg></div>
-              <div><div className="lab">Email</div><div className="val">suraj@mechonsite.com</div></div>
+              <div><div className="lab">Email</div><div className="val">info@temasekres.com </div></div>
             </div>
             <div className="row">
               <div className="ic"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.7"><path d="M5 4h4l2 5-3 2a12 12 0 0 0 5 5l2-3 5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2Z"/></svg></div>
-              <div><div className="lab">Phone</div><div className="val">+91 74282 94523</div></div>
+              <div><div className="lab">Phone</div><div className="val">+91 7827479548</div></div>
             </div>
             <div className="row">
               <div className="ic"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.7"><path d="M12 21s7-6 7-11a7 7 0 1 0-14 0c0 5 7 11 7 11Z"/><circle cx="12" cy="10" r="2.5"/></svg></div>
