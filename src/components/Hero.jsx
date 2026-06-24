@@ -1,8 +1,15 @@
 import TopoCanvas from '../canvas/TopoCanvas.jsx'
 
 export default function Hero() {
+  const base = import.meta.env.BASE_URL || '/'
   return (
     <section className="hero" id="top">
+      <div className="hero-video-wrap">
+        <video className="hero-video" autoPlay muted loop playsInline>
+          <source src={`${base}Hero/hero-bg.mp4`} type="video/mp4" />
+        </video>
+        <div className="hero-video-overlay" />
+      </div>
       <TopoCanvas />
       <div className="hero-veil" />
       <div className="wrap">
