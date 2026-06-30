@@ -13,7 +13,7 @@ export default function Nav() {
   return (
     <header className={'nav' + (scrolled ? ' scrolled' : '')}>
       <div className="nav-inner">
-        <a href="#top" className="brand" aria-label="Teamsek Resources home">
+        <a href="#top" className="brand" aria-label="Temasek Resources home">
           <Logo />
           <span className="name">TEMASEK<small>Resources Pvt Ltd</small></span>
         </a>
