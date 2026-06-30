@@ -13,7 +13,7 @@ export default function Why() {
       <div className="wrap why-grid">
         <div>
           <div className="sec-head reveal" style={{ marginBottom: 30 }}>
-            <span className="eyebrow">Why Teamsek</span>
+            <span className="eyebrow">Why Temasek</span>
             <h2>Specialists, not generalists.</h2>
           </div>
           <div className="why-list">

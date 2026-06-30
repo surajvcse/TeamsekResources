@@ -1,4 +1,4 @@
-# Teamsek Resources Pvt Ltd — Website (React + Vite)
+# Temasek Resources Pvt Ltd — Website (React + Vite)
 
 Specialized ground-engineering company website. Built with **React 18** and **Vite**.
 All background animations (topographic hero, sector grid, shaft cross-section) are pure
@@ -22,7 +22,7 @@ Deploy the contents of `/dist` to any static host (Netlify, Vercel, GitHub Pages
 
 ## Project structure
 ```
-teamsek-resources/
+temasek-resources/
 ├─ index.html              # Vite entry, loads Google Fonts
 ├─ vite.config.js
 ├─ public/

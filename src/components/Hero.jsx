@@ -16,7 +16,7 @@ export default function Hero() {
         <span className="eyebrow">Design • Build • Deliver — Ground Engineering</span>
         <h1>We engineer the ground beneath <em>India's</em> hardest projects.</h1>
         <p className="lead">
-          Teamsek Resources is a specialized design-and-build contractor for tunnels, hydro power,
+          Temasek Resources is a specialized design-and-build contractor for tunnels, hydro power,
           mining, slope stabilization and ground improvement — one partner, from survey to handover.
         </p>
         <div className="hero-cta">

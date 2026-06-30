@@ -1,9 +1,9 @@
 {
-  "name": "teamsek-resources",
-  "homepage": "https://surajvcse.github.io/TeamsekResources",
+  "name": "Temasek-resources",
+  "homepage": "https://surajvcse.github.io/TemasekResources",
   "private": true,
   "version": "1.0.0",
-  "description": "Teamsek Resources Pvt Ltd — specialized ground engineering website (React + Vite)",
+  "description": "Temasek Resources Pvt Ltd — specialized ground engineering website (React + Vite)",
   "type": "module",
   "scripts": {
     "dev": "vite",

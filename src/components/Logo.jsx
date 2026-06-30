@@ -3,8 +3,8 @@ export default function Logo() {
   return (
     <img
       className="mark"
-      src={`${base}Logo/teamsek-logo.png`}
-      alt="Teamsek Resources"
+      src={`${base}Logo/temasek-logo.png`}
+      alt="Temasek Resources"
       width="48"
       height="48"
     />

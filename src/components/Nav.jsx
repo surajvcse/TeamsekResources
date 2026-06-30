@@ -15,7 +15,7 @@ export default function Nav() {
       <div className="nav-inner">
         <a href="#top" className="brand" aria-label="Teamsek Resources home">
           <Logo />
-          <span className="name">TEAMSEK<small>Resources Pvt Ltd</small></span>
+          <span className="name">TEMASEK<small>Resources Pvt Ltd</small></span>
         </a>
         <nav className={'nav-links' + (open ? ' open' : '')}>
           <a href="#services" onClick={close}>Capabilities</a>

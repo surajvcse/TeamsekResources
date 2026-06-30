@@ -105,7 +105,7 @@ export default function Enquiry() {
               </div>
               <div className="row">
                 <div className="ic"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.7"><path d="M12 21s7-6 7-11a7 7 0 1 0-14 0c0 5 7 11 7 11Z"/><circle cx="12" cy="10" r="2.5"/></svg></div>
-                <div><div className="lab">Head office</div><div className="val">Vatika City Point, Gurugram, Haryana — 122002</div></div>
+                <div><div className="lab">Head office</div><div className="val">Unit No-207,The Solitaire Plaza, Sikandarpur,sector-26, Gurugram, Haryana-122002</div></div>
               </div>
             </div>
           </div>
